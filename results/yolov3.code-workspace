@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../../yolov3"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../../data/18"
+		},
+		{
+			"path": "../../../data/18_gray"
+		}
+	],
+	"settings": {}
+}
